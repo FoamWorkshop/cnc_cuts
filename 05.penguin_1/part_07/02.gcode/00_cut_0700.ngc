@@ -1,0 +1,19 @@
+G21 (Units in millimeters)  G90 (Absolute programming)
+
+F150
+
+o<07011> call
+o<07012> call
+o<07021> call
+o<07022> call
+o<07031> call
+o<07032> call
+o<07041> call
+o<07042> call
+o<07051> call
+o<07052> call
+
+
+G1 x0u0 
+
+M2

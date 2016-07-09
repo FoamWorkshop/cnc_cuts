@@ -1,0 +1,20 @@
+G21 (Units in millimeters)  G90 (Absolute programming)
+
+F150
+
+o<08011> call
+o<08012> call
+o<08021> call
+o<08022> call
+o<08031> call
+o<08032> call
+o<08041> call
+o<08042> call
+o<08051> call
+o<08052> call
+o<08061> call
+o<08062> call
+
+G1 x270u270 
+
+M2
