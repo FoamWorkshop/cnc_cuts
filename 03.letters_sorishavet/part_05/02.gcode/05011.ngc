@@ -1,0 +1,8 @@
+o<05011> sub
+
+(-----CT PATH-from: 05011-----)
+G1 X   -10.0 Y    29.1 U   -10.0 V    29.1
+G1 X    10.4 Y    29.1 U    10.4 V    29.1
+
+o<05011> endsub
+M2 (program end)

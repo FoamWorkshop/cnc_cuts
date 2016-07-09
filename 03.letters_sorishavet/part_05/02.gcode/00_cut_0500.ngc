@@ -1,0 +1,12 @@
+G21 (Units in millimeters)  G90 (Absolute programming)
+
+F100
+
+o<05011> call
+o<05012> call
+o<05021> call
+o<05022> call
+
+G1 x170y70 u170v70 
+
+M2
