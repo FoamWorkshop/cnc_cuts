@@ -1,6 +1,6 @@
 G21 (Units in millimeters)  G90 (Absolute programming)
 
-F150
+F200
 
 o<07011> call
 o<07012> call
